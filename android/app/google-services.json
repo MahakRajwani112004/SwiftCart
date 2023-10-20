@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978298607993",
+    "project_id": "swiftcart-35f22",
+    "storage_bucket": "swiftcart-35f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978298607993:android:cf18d0eedb8912d88bf7a8",
+        "android_client_info": {
+          "package_name": "com.example.myecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFEK3ej4qZtQMCNph_fMGBbWFoDOyH1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
